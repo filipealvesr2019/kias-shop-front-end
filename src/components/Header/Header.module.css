@@ -54,7 +54,7 @@
 }
 
 /* Adjust MediewalLogoMobile size */
-.MediewalLogoMobile {
+.LogoMobile {
   width: 34vw;
   
   
@@ -120,7 +120,7 @@
   }
 
   /* Adjust MediewalLogo size */
-  .MediewalLogo {
+  .Logo {
     width: 12vw;
   }
 
@@ -281,7 +281,7 @@
   .MobileHeader__Container {
     gap: 15rem;
   }
-  .MediewalLogo {
+  .Logo {
     width: 22vw;
   }
 }
@@ -298,7 +298,7 @@
   .desktopContainer {
     display: flex;
   }
-  .MediewalLogo {
+  .Logo {
     width: 12vw;
   }
   .IconsDesktopContainer {
@@ -310,7 +310,7 @@
   .desktopContainer {
     display: flex;
   }
-  .MediewalLogo {
+  .Logo {
     width: 12vw;
   }
   .IconsDesktopContainer {
@@ -342,7 +342,7 @@
     align-items: center;
     height: 10vh;
   }
-  .MediewalLogo {
+  .Logo {
     width: 15vw;
   }
 }
@@ -359,7 +359,7 @@
     align-items: center;
     height: 20vh;
   }
-  .MediewalLogo {
+  .Logo {
     width: 15vw;
   }
 }
@@ -378,7 +378,7 @@
     align-items: center;
     height: 20vh;
   }
-  .MediewalLogo {
+  .Logo {
     width: 15vw;
   }
 }
@@ -392,7 +392,7 @@
     align-items: center;
     height: 20vh;
   }
-  .MediewalLogoMobile {
+  .LogoMobile {
     width: 20vw;
   }
   .MobileHeader__Container{
