@@ -149,8 +149,8 @@ const Header = () => {
               <i>
                 <Link href={"/"}>
                   <img
-                    src="https://imgur.com/VpESBjr"
-                    alt="Logo da Mediewal"
+                    src="https://i.imgur.com/BsgTd62.png"
+                    alt="Logo"
                     className={styles.Logo}
                   />
                 </Link>
@@ -382,8 +382,8 @@ const Header = () => {
               <i>
                 <Link href={"/"}>
                   <img
-                    src="https://imgur.com/VpESBjr"
-                    alt="Logo da Mediewal"
+                    src="https://i.imgur.com/BsgTd62.png"
+                    alt="Logo"
                     className={styles.LogoMobile}
                   />
                 </Link>
