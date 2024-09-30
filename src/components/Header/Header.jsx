@@ -149,7 +149,7 @@ const Header = () => {
               <i>
                 <Link href={"/"}>
                   <img
-                    src="https://i.imgur.com/BsgTd62.png"
+                    src="https://i.imgur.com/2yTW5eo.png"
                     alt="Logo"
                     className={styles.Logo}
                   />
@@ -382,7 +382,7 @@ const Header = () => {
               <i>
                 <Link href={"/"}>
                   <img
-                    src="https://i.imgur.com/BsgTd62.png"
+                    src="https://i.imgur.com/2yTW5eo.png"
                     alt="Logo"
                     className={styles.LogoMobile}
                   />
