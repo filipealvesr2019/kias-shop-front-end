@@ -36,7 +36,7 @@ export async function generateMetadata({ params }) {
   }
   const keywords = productData?.uniqueSubcategories ? productData.uniqueSubcategories.join(', ') : '';
 
-  const canonicalUrl = `https://mediewal.com.br/categories/${category}`; // Substitua pela URL canônica correta
+  const canonicalUrl = ` http://localhost:5015/categories/${category}`; // Substitua pela URL canônica correta
   // Define metadados dinâmicos com base na categoria
   switch (category) {
     case "moda-dri-fit":
