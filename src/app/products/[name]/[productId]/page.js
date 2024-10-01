@@ -1,8 +1,7 @@
 import React from 'react';
 
 import axios from 'axios';
-import styles from './ProductDetails.module.css'
-import ProductDetailsButton from '@/components/ProductDetailsButton/ProductDetailsButton';
+
 import ProductDetails from '@/components/ProductDetails/ProductDetails';
 // Função para obter os dados do produto
 const getProductData = async (name, productId, token, apiUrl) => {
