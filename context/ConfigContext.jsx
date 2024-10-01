@@ -4,7 +4,7 @@ import React, { createContext, useContext, useState } from 'react';
 
 export const ConfigContext = createContext();
 const localhost = 'http://localhost:3001';
-const prodURL = 'https://serveradmin-whhj.onrender.com';
+const prodURL = 'https://kias-shop-backend.onrender.com';
 
 export const ConfigProvider = ({ children }) => {
   const [apiUrl, setApiUrl] = useState(process.env.NEXT_PUBLIC_API_URL || localhost);
